@@ -6,10 +6,10 @@ For know more details about NavigationDrawer: https://www.syncfusion.com/xamarin
 
 NavigationDrawer user guide documentation: https://help.syncfusion.com/xamarin/navigation-drawer/getting-started
 
-# Assembly deployment
+## Assembly deployment
 After installing Essential Studio for Xamarin, you can find all the required assemblies in the installation folders, {Syncfusion Essential Studio Installed location} \Essential Studio\{Version #}\Xamarin\lib.
 
-# Adding SfNavigationDrawer reference
+## Adding SfNavigationDrawer reference
 You can add SfNavigationDrawer reference using one of the following methods:
 
 ## Method 1: Adding SfNavigationDrawer reference from nuget.org
@@ -24,7 +24,7 @@ Syncfusion also provides Xamarin Toolbox. Using this toolbox, you can drag the S
 
 If you prefer to manually reference the assemblies instead referencing from NuGet, add the following assemblies in respective projects.
 
-# Initialize SfNavigationDrawer
+## Initialize SfNavigationDrawer
 Import the SfNavigationDrawer namespace in respective Page as shown below:
 
 **[XAML]**
